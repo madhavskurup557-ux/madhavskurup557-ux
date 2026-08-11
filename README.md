@@ -1,222 +1,172 @@
-# 👋 Hi, I'm Madhav S Kurup
+# 👋 Hey, I'm Praise Varghese Sunil!
 
-<h3 align="center">
-🎓 B.Tech Computer Engineering Graduate
-<br>
-🤖 AI & Data Analytics Enthusiast
-<br>
-🐍 Python Developer | 📊 Data Analyst | 🧠 ML Explorer
-</h3>
+### 🤖 AI & Data Analytics Enthusiast | 📊 Data Explorer | 💻 Developer
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=AI+%26+Data+Analytics+Enthusiast;Python+Developer;Machine+Learning+Explorer;Data+Driven+Problem+Solver;Turning+Data+Into+Insights+%F0%9F%9A%80" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE%20VIEWS&color=00F7FF&style=for-the-badge" />
-</p>
+> *Turning data into insights, ideas into intelligent systems, and problems into solutions.*
 
 ---
 
-## 🧑‍💻 About Me
+## 🚀 About Me
 
-🎓 **B.Tech Computer Engineering Graduate**
+🎓 I'm passionate about **Artificial Intelligence, Data Analytics, Machine Learning, and Software Development**.
 
-🤖 Passionate about **Artificial Intelligence & Machine Learning**
+🔍 I enjoy exploring datasets, discovering hidden patterns, building intelligent solutions, and learning new technologies.
 
-📊 Interested in **Data Analytics & Data Science**
+💡 My goal is to combine **AI + Data + Programming** to create practical solutions for real-world problems.
 
-🐍 Building applications and projects using **Python**
-
-🗄️ Working with **SQL & databases**
-
-📈 Exploring **Data Visualization & Business Intelligence**
-
-💡 Interested in solving real-world problems using technology
-
-🚀 **Learn → Build → Analyze → Innovate**
+```text
+🧠 Artificial Intelligence
+📊 Data Analytics
+🤖 Machine Learning
+🐍 Python Programming
+💻 Software Development
+📈 Data Visualization
+☁️ Technology & Innovation
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### 💻 Programming
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,mysql" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,git,github" />
 </p>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-
-### 🤖 AI & Data Analytics
-
-![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-8A2BE2?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-
-### 📊 Data Visualization
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
-
-### ⚙️ Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
-</p>
-
----
-
-# 🚀 Featured Projects
 
 ### 🤖 AI & Machine Learning
 
-**🔹 AI Prediction System**
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</p>
 
-> Machine learning project designed to analyze datasets and generate predictions.
+**Tools & Libraries**
 
-**🔹 Machine Learning Classification**
-
-> Classification model for identifying patterns and categories within data.
-
-**🔹 AI Chatbot**
-
-> Python-based chatbot designed to interact with users using intelligent responses.
+`NumPy` • `Pandas` • `Scikit-Learn` • `Matplotlib` • `Seaborn` • `TensorFlow` • `PyTorch`
 
 ### 📊 Data Analytics
 
-**🔹 Sales Data Analysis**
+`Python` • `Pandas` • `NumPy` • `SQL` • `Excel` • `Power BI` • `Tableau`
 
-> Analyze sales data, identify trends, and generate useful business insights.
+### 🌐 Development & Tools
 
-**🔹 Customer Data Analysis**
-
-> Explore customer behavior and discover meaningful patterns.
-
-**🔹 Data Visualization Dashboard**
-
-> Transform raw datasets into interactive and understandable visualizations.
-
-> 🚧 More projects coming soon...
+`Git` • `GitHub` • `Jupyter Notebook` • `VS Code` • `Linux`
 
 ---
 
-# 📊 GitHub Stats
+## 🧠 What I'm Learning
 
-<p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-
-</p>
+```diff
++ Artificial Intelligence
++ Machine Learning
++ Deep Learning
++ Data Analytics
++ Data Visualization
++ SQL & Databases
++ Generative AI
++ Computer Vision
+```
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/dist/github-contribution-grid-snake.svg" />
-
-</p>
-
----
-
-# 📈 My Development Journey
+## 📊 My Data Journey
 
 ```text
-                    🎓 B.Tech
-                       │
-                       ▼
-                  💻 Programming
-                       │
-                       ▼
-                   🐍 Python
-                       │
-                       ▼
-                 📊 Data Analytics
-                       │
-                       ▼
-                🧠 Machine Learning
-                       │
-                       ▼
-             🤖 Artificial Intelligence
-                       │
-                       ▼
-              🚀 Real World Projects
+Raw Data
+   ↓
+Data Cleaning
+   ↓
+Exploratory Data Analysis
+   ↓
+Visualization
+   ↓
+Machine Learning
+   ↓
+AI-Powered Insights
+   ↓
+🚀 Real-World Solutions
 ```
 
 ---
 
-# 🌱 Currently Learning
+## 🔥 Featured Projects
 
-```python
-learning = [
-    "Python",
-    "Data Analytics",
-    "Machine Learning",
-    "Artificial Intelligence",
-    "SQL",
-    "Power BI",
-    "Data Visualization"
-]
+### 🤖 AI Projects
 
-for skill in learning:
-    print(f"Learning {skill} 🚀")
-```
+> Intelligent applications powered by Machine Learning & AI.
 
----
+* 🧠 Machine Learning Prediction Systems
+* 💬 AI Chatbot Projects
+* 👁️ Computer Vision Applications
+* ✨ Generative AI Experiments
 
-# 🎯 Career Goals
+### 📊 Data Analytics Projects
 
-* 🤖 Become an **AI/ML Developer**
-* 📊 Build a career in **Data Analytics**
-* 🧠 Develop strong **Machine Learning skills**
-* 🐍 Become an advanced **Python Developer**
-* 📈 Create professional **Data Visualization dashboards**
-* 🚀 Build and deploy real-world AI projects
-* 💼 Start a successful career in **AI & Data**
+> Turning raw datasets into meaningful insights.
 
----
+* 📈 Exploratory Data Analysis
+* 📊 Interactive Dashboards
+* 🧹 Data Cleaning & Preprocessing
+* 🔎 Data Visualization
+* 📉 Statistical Analysis
 
-# 💡 What I Believe
+### 💻 Programming Projects
 
-> ### "Data tells a story. AI helps us understand it."
-
-```text
-📊 DATA
-   ↓
-🔍 ANALYSIS
-   ↓
-💡 INSIGHT
-   ↓
-🧠 INTELLIGENCE
-   ↓
-🤖 AI
-   ↓
-🚀 IMPACT
-```
+* 🐍 Python Applications
+* ⚙️ C/C++ Programs
+* 🗄️ SQL Database Projects
+* 🧩 Problem-Solving & Algorithms
 
 ---
 
-# 🔗 Connect With Me
+## 📈 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 My Contribution Graph
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+* 🤖 Build real-world AI applications
+* 📊 Become stronger in Data Analytics
+* 🧠 Master Machine Learning & Deep Learning
+* 📚 Build a strong AI/ML portfolio
+* 🌎 Contribute to Open Source
+* 🚀 Create impactful projects
+* 💼 Grow as an AI & Data Professional
+
+---
+
+## 💡 My Philosophy
+
+> ### **"Data tells the story. AI helps us understand it."**
+
+I believe technology becomes powerful when it solves **real problems**.
+
+My mission is to keep learning, keep building, and keep turning ideas into useful solutions. 🚀
+
+---
+
+## 🤝 Let's Connect
 
 <p align="center">
 
@@ -228,48 +178,20 @@ for skill in learning:
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:YOUR_EMAIL@example.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# 📚 Useful Resources
-
-| Resource        | Link                           |
-| --------------- | ------------------------------ |
-| 🐍 Python       | https://www.python.org/        |
-| 📊 Pandas       | https://pandas.pydata.org/     |
-| 🔢 NumPy        | https://numpy.org/             |
-| 🧠 Scikit-learn | https://scikit-learn.org/      |
-| 🤖 Kaggle       | https://www.kaggle.com/        |
-| 📈 Power BI     | https://powerbi.microsoft.com/ |
-| 🐙 GitHub       | https://github.com/            |
-
----
-
-# ⭐ Support My Work
-
-If you like my projects:
-
-⭐ **Star my repositories**
-
-🍴 **Fork interesting projects**
-
-🤝 **Connect with me**
-
-💬 **Share ideas and collaborate**
-
----
-
 <p align="center">
 
-## 🚀 BUILD • LEARN • ANALYZE • INNOVATE
+### ⭐ Thanks for visiting my profile!
 
-### Thanks for visiting my profile! 👋
+**Explore • Learn • Build • Analyze • Innovate 🚀**
 
-**Let's build the future with AI & Data. 🤖📊**
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&color=blueviolet\&style=for-the-badge)
 
 </p>
