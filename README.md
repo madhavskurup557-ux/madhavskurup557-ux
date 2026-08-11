@@ -95,7 +95,9 @@ Interactive visualizations for understanding complex datasets.
 # 🐍 My Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/dist/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/madhavskurup557-ux
+/madhavskurup557-ux
+/main/dist/github-contribution-grid-snake.svg" />
 </p>
 
 > 🐍 **My contributions are coming alive!**
